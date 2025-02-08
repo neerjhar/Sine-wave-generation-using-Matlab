@@ -1,4 +1,5 @@
 # Sine-wave-generation-using-Matlab
+This matlab code is for Sine wave genraration in MatLab the samples rate is 100
 ```
    %%Time specifications:
    Fs = 100;                   % samples per second
